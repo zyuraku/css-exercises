@@ -1,0 +1,19 @@
+.oddNumber {
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+    background-color: #ffc0cb ;
+}
+
+#evenNumber {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#anotherId {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sizing {
+    font-size: 24px;
+}
